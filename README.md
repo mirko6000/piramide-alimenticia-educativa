@@ -1,5 +1,3 @@
-# piramide-alimenticia-educativa
-Piramide alimenticia
 <!DOCTYPE html>
 <html lang="es">
 <head>
